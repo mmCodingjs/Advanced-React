@@ -1,4 +1,4 @@
-import Link from "next/link";
+import Link from "next/link"; // using link from next to server-side
 
 const Sell = props => (
   <div>
